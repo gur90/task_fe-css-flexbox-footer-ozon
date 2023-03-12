@@ -21,6 +21,7 @@ border: 1px solid gray;
 }
 .text{
  text-align: center;
+ font-family: "GTEestiProDisplay";
 }
 .qr-code{
   width: 190px;
